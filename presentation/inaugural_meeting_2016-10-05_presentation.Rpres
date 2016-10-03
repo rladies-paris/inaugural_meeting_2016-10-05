@@ -1,0 +1,32 @@
+R-Ladies Paris: Inaugural Meeting
+========================================================
+author: Diane Beldame, Christina Bergmann, Page Piccinini, 
+date: October 5, 2016
+autosize: true
+
+```{r, echo = FALSE}
+load("inaugural_meeting_2016-10-05_environment.RData")
+```
+
+First Slide
+========================================================
+
+For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+Figure of Topic Preferences
+========================================================
+
+```{r, echo = FALSE}
+topic_pref.plot
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
