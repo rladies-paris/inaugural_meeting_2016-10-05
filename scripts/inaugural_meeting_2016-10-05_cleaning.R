@@ -1,5 +1,5 @@
-## LOAD PACKAGES ####
-library(tidyverse)
+## LOAD PACKAGES #### --> uncomment below if not running compilation script
+# source("scripts/inaugural_meeting_2016-10-05_packages.R") 
 
 
 ## READ IN DATA ####
