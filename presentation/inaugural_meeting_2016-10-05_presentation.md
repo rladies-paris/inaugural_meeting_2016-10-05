@@ -6,21 +6,22 @@ autosize: true
 
 
 
-First Slide
+Who are we?
 ========================================================
 
-For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
+**Diane Beldame**   **Christina Bergmann**    **Page Piccinini**
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+<img src="images/diane_beldame.jpeg" width = "200px"/>
+<img src="images/christina_bergmann.jpg" width = "200px"/>
+<img src="images/page_piccinini.png" width = "200px"/>
 
-Figure of Topic Preferences
+
+Who are you?
+========================================================
+* 19 women (according to survey responses).
+* 
+
+What are you interested in?
 ========================================================
 
-![plot of chunk unnamed-chunk-2](inaugural_meeting_2016-10-05_presentation-figure/unnamed-chunk-2-1.png)
-
-Slide With Plot
-========================================================
-
-![plot of chunk unnamed-chunk-3](inaugural_meeting_2016-10-05_presentation-figure/unnamed-chunk-3-1.png)
+<img src="inaugural_meeting_2016-10-05_presentation-figure/unnamed-chunk-2-1.png" title="plot of chunk unnamed-chunk-2" alt="plot of chunk unnamed-chunk-2" style="display: block; margin: auto;" />

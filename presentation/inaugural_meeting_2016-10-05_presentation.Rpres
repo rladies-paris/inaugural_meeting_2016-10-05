@@ -8,25 +8,24 @@ autosize: true
 load("inaugural_meeting_2016-10-05_environment.RData")
 ```
 
-First Slide
+Who are we?
 ========================================================
 
-For more details on authoring R presentations please visit <https://support.rstudio.com/hc/en-us/articles/200486468>.
+**Diane Beldame**   **Christina Bergmann**    **Page Piccinini**
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+<img src="images/diane_beldame.jpeg" width = "200px"/>
+<img src="images/christina_bergmann.jpg" width = "200px"/>
+<img src="images/page_piccinini.png" width = "200px"/>
 
-Figure of Topic Preferences
+
+Who are you?
+========================================================
+* `r max(data_responders$response_number)` women (according to survey responses).
+* 
+
+What are you interested in?
 ========================================================
 
-```{r, echo = FALSE}
+```{r, echo = FALSE, fig.align='center'}
 topic_pref.plot
-```
-
-Slide With Plot
-========================================================
-
-```{r, echo=FALSE}
-plot(cars)
 ```
