@@ -52,9 +52,9 @@ topic_pref.plot = ggplot(data_responses_figs, aes(x = reorder(possible_topics, -
         axis.text.x = element_blank(), axis.ticks.x = element_blank(),
         legend.position = "top")
 
-#pdf("figures/topic_pref.pdf")
+pdf("figures/topic_pref.pdf")
 topic_pref.plot
-#dev.off()
+dev.off()
 
 
 

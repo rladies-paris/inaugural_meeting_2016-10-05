@@ -18,3 +18,11 @@ intermediate beginner	tutorials on packages (e.g. dplyr), tutorials on other asp
 beginner	tutorials on introduction to R, presentations on research in R, general networking, mentoring
 advanced	tutorials on other aspects of R (e.g. Markdown, Shiny), presentations on research in R, jobs for R programmers
 intermediate beginner	tutorials on packages (e.g. dplyr), mentoring
+intermediate beginner	tutorials on introduction to R, tutorials on packages (e.g. dplyr), tutorials on other aspects of R (e.g. Markdown, Shiny), tutorials on programs (e.g. RStudio), presentations on research in R
+beginner	tutorials on introduction to R, tutorials on packages (e.g. dplyr), tutorials on other aspects of R (e.g. Markdown, Shiny)
+intermediate advanced	tutorials on packages (e.g. dplyr), tutorials on other aspects of R (e.g. Markdown, Shiny), general networking, mentoring
+intermediate	tutorials on packages (e.g. dplyr), tutorials on other aspects of R (e.g. Markdown, Shiny), presentations on research in R, general networking
+beginner	tutorials on introduction to R, tutorials on packages (e.g. dplyr), tutorials on other aspects of R (e.g. Markdown, Shiny), tutorials on programs (e.g. RStudio), presentations on research in R, jobs for R programmers, general networking, mentoring
+intermediate	tutorials on other aspects of R (e.g. Markdown, Shiny), jobs for R programmers
+intermediate beginner	tutorials on introduction to R, mentoring
+intermediate	tutorials on other aspects of R (e.g. Markdown, Shiny)
