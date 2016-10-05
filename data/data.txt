@@ -26,3 +26,9 @@ beginner	tutorials on introduction to R, tutorials on packages (e.g. dplyr), tut
 intermediate	tutorials on other aspects of R (e.g. Markdown, Shiny), jobs for R programmers
 intermediate beginner	tutorials on introduction to R, mentoring
 intermediate	tutorials on other aspects of R (e.g. Markdown, Shiny)
+intermediate beginner	tutorials on other aspects of R (e.g. Markdown, Shiny), presentations on research in R, general networking, mentoring
+intermediate beginner	tutorials on introduction to R, tutorials on packages (e.g. dplyr), tutorials on programs (e.g. RStudio)
+intermediate beginner	tutorials on programs (e.g. RStudio), jobs for R programmers, mentoring
+advanced	tutorials on packages (e.g. dplyr)
+beginner	tutorials on introduction to R, general networking
+advanced	tutorials on packages (e.g. dplyr), presentations on research in R, general networking

@@ -3,7 +3,7 @@
 
 
 ## READ IN DATA ####
-data = read.table("data/data.txt", header=T, sep="\t") # data is as of 1:31 on Oct. 4, 2016
+data = read.table("data/data.txt", header=T, sep="\t") # data is as of 11:20AM on Oct. 5, 2016
 
 
 ## CLEAN DATA ####
