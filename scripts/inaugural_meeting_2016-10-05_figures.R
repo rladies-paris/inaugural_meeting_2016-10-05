@@ -24,9 +24,6 @@ data_responses_figs = data_responses %>%
 
 
 ## MAKE FIGURES ####
-# Skill levels of responses
-# [to do]
-
 # Topic preferences
 topic_pref.plot = ggplot(data_responses_figs, aes(x = reorder(possible_topics, -percentage),
                                 y = percentage, fill = reorder(possible_topics, -percentage))) +
